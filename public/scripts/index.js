@@ -1,4 +1,4 @@
-import '/index.scss'
+import '../../index.scss'
 
 document.querySelector('#app').innerHTML = `
     <header class="main-header">

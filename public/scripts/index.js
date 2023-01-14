@@ -1,5 +1,3 @@
-
-
 document.querySelector('#app').innerHTML = `
     <header class="main-header">
           <div class="layers">

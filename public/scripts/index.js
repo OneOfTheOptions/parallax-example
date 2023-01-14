@@ -6,7 +6,7 @@ document.querySelector('#app').innerHTML = `
               <div class="layers__title">Fairy Forest</div>
             </div>
             <div class="layer layers__base"  style="background-image: url(./public/img/layer-base.png);"></div>
-            <div class="layer layers__middle" style="background-image: url(.public/img/layer-middle.png);"></div>
+            <div class="layer layers__middle" style="background-image: url(./public/img/layer-middle.png);"></div>
             <div class="layer layers__front" style="background-image: url(./public/img/layer-front.png);"></div>
           </div>
         </header>

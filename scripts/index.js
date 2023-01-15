@@ -5,12 +5,12 @@ document.querySelector('#app').innerHTML = `
               <div class="layers__caption">Welcome to Parallax</div>
               <div class="layers__title">Fairy Forest</div>
             </div>
-            <div class="layer layers__base"  style="background-image: url(../img/layer-base.png);"></div>
-            <div class="layer layers__middle" style="background-image: url(../img/layer-middle.png);"></div>
-            <div class="layer layers__front" style="background-image: url(../img/layer-front.png);"></div>
+            <div class="layer layers__base"  style="background-image: url(./img/layer-base.png);"></div>
+            <div class="layer layers__middle" style="background-image: url(/img/layer-middle.png);"></div>
+            <div class="layer layers__front" style="background-image: url(img/layer-front.png);"></div>
           </div>
         </header>
-
+        
         <article class="main-article" style="background-image: url(../img/dungeon.jpg)">
           <div class="main-article__content">
             <h2 class="main-article__header">To be continued</h2>
